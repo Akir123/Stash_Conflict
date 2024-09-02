@@ -2,8 +2,6 @@ Hi
 Hello
 No
 wow
-<<<<<<< Updated upstream
 Syonara
-=======
 Hyso
->>>>>>> Stashed changes
+
